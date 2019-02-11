@@ -25,7 +25,7 @@ SECRET_KEY = '13_e(%%s-93f%5f^c2+6dl_1h*hj^i+=@inr(v5#aihk7=-a*d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com','mandatas.pythonanywhere.com']
 
 
 # Application definition
